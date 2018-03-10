@@ -1,6 +1,6 @@
 # Deep Learning Nanodegree
 
-![certificate]()
+![certificate](https://rawgit.com/felixhllou/Udacity_Deep_Learning/master/dlnd_cert.png)
 
 ### About
 This repository contains project work for Udacity's [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
